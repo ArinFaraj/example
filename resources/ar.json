@@ -4,5 +4,15 @@
 	"app": {
 		"today": "اليوم، {date}",
 		"nrOfTodos": "{count} المهام"
+	},
+	"pages": {
+		"error": {
+			"cta": "اضغط هنا للعودة إلى الصفحة الرئيسية"
+		}
+	},
+	"server": {
+		"error": {
+			"missingField": "الحقل ' {field} ' مفقود"
+		}
 	}
 }
